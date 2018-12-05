@@ -16,7 +16,7 @@ namespace AOC
             var time = new Stopwatch();
             time.Start();
 
-            var day = new Day4();
+            var day = new Day5();
             var result = day.GetResult();
 
             time.Stop();
